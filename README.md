@@ -7,7 +7,7 @@ Original Source: https://github.com/VoronDesign/Voron-2
 
 License: [License](./LICENSE.txt)
 
-Changes: 
+Changes:
 
 ## Frame Specs
 
@@ -27,11 +27,11 @@ DIN 3 Rails (35mm W) - 300mm - 2
 ## Panels
 
 ```
-2 - 398mm x 284mm (side panels)
-2 - 398mm x 142mm (front doors)
+2 - 304mm x 284mm (side panels)
+2 - 304mm x 142mm (front doors)
 1 - 284mm x 284mm (top panel)
 
-	Coroplast Sheet - 283x303x4 mm	1
+Coroplast Sheet - 283x303x4 mm	1
 Coroplast Sheet - 269x269x4 mm	2
 Acrylic Sheet Clear - 283x303x3 mm	2
 Acrylic Sheet Clear - 283x283x3 mm	1
